@@ -1,0 +1,422 @@
+[
+	{
+		"Matches" : "Mumbai Indians (MI) Vs Chennai Super Kings (CSK)",
+		"Date" : "19 September 2020",
+		"Day" : "Saturday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Delhi Capitals (DC) Vs Kings XI Punjab (KXIP)",
+		"Date" : "20 September 2020",
+		"Day" : "Sunday",
+		"Time" : "3:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Royal Challengers Bangalore (RCB) Vs Kolkata Knight Riders (KKR)",
+		"Date" : "20 September 2020",
+		"Day" : "Sunday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Sun Risers Hyderabad (SRH) Vs Mumbai Indians (MI)",
+		"Date" : "21 September 2020",
+		"Day" : "Monday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Chennai Super Kings (CSK) Vs Rajasthan Royals (RR)",
+		"Date" : "22 September 2020",
+		"Day" : "Tuesday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Kolkata Knight Riders (KKR) Vs Delhi Capitals (DC)",
+		"Date" : "23 September 2020",
+		"Day" : "Wednesday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Kings XI Punjab (KXIP) Vs Sun Risers Hyderabad (SRH)",
+		"Date" : "24 September 2020",
+		"Day" : "Thursday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Mumbai Indians (MI) Vs Royal Challengers Bangalore (RCB)",
+		"Date" : "25 September 2020",
+		"Day" : "Friday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Rajasthan Royals (RR) Vs Delhi Capitals (DC)",
+		"Date" : "26 September 2020",
+		"Day" : "Saturday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Kolkata Knight Riders (KKR) Vs Chennai Super Kings (CSK)",
+		"Date" : "27 September 2020",
+		"Day" : "Sunday",
+		"Time" : "3:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Royal Challengers Bangalore (RCB) Vs Sun Risers Hyderabad (SRH)",
+		"Date" : "27 September 2020",
+		"Day" : "Sunday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Kings XI Punjab (KXIP) Vs Mumbai Indians (MI)",
+		"Date" : "28 September 2020",
+		"Day" : "Monday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Rajasthan Royals (RR) Vs Kolkata Knight Riders (KKR)",
+		"Date" : "29 September 2020",
+		"Day" : "Tuesday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Delhi Capitals (DC) Vs Royal Challengers Bangalore (RCB)",
+		"Date" : "30 September 2020",
+		"Day" : "Wednesday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Chennai Super Kings (CSK) Vs Kings XI Punjab (KXIP)",
+		"Date" : "1 October 2020",
+		"Day" : "Thursday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Sun Risers Hyderabad (SRH) Vs Rajasthan Royals (RR)",
+		"Date" : "2 October 2020",
+		"Day" : "Friday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Kolkata Knight Riders (KKR) Vs Mumbai Indians (MI)",
+		"Date" : "3 October 2020",
+		"Day" : "Saturday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Delhi Capitals (DC) Vs Chennai Super Kings (CSK)",
+		"Date" : "4 October 2020",
+		"Day" : "Sunday",
+		"Time" : "3:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Kings XI Punjab (KXIP) Vs Royal Challengers Bangalore (RCB)",
+		"Date" : "4 October 2020",
+		"Day" : "Sunday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Mumbai Indians (MI) Vs Rajasthan Royals (RR)",
+		"Date" : "5 October 2020",
+		"Day" : "Monday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Sun Risers Hyderabad (SRH) Vs Kolkata Knight Riders (KKR)",
+		"Date" : "6 October 2020",
+		"Day" : "Tuesday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Kings XI Punjab (KXIP) Vs Chennai Super Kings (CSK)",
+		"Date" : "7 October 2020",
+		"Day" : "Wednesday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Royal Challengers Bangalore (RCB) Vs Rajasthan Royals (RR)",
+		"Date" : "8 October 2020",
+		"Day" : "Thursday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Delhi Capitals (DC) Vs Kolkata Knight Riders (KKR)",
+		"Date" : "9 October 2020",
+		"Day" : "Friday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Chennai Super Kings (CSK) Vs Sun Risers Hyderabad (SRH)",
+		"Date" : "10 October 2020",
+		"Day" : "Saturday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Mumbai Indians (MI) Vs Kings XI Punjab (KXIP)",
+		"Date" : "11 October 2020",
+		"Day" : "Sunday",
+		"Time" : "3:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Rajasthan Royals (RR) Vs Sun Risers Hyderabad (SRH)",
+		"Date" : "11 October 2020",
+		"Day" : "Sunday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Royal Challengers Bangalore (RCB) Vs Delhi Capitals (DC)",
+		"Date" : "12 October 2020",
+		"Day" : "Monday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Kolkata Knight Riders (KKR) Vs Kings XI Punjab (KXIP)",
+		"Date" : "13 October 2020",
+		"Day" : "Tuesday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Chennai Super Kings (CSK) Vs Mumbai Indians (MI)",
+		"Date" : "14 October 2020",
+		"Day" : "Wednesday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Rajasthan Royals (RR) Vs Royal Challengers Bangalore (RCB)",
+		"Date" : "15 October 2020",
+		"Day" : "Thursday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Kings XI Punjab (KXIP) Vs Kolkata Knight Riders (KKR)",
+		"Date" : "16 October 2020",
+		"Day" : "Friday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Sun Risers Hyderabad (SRH) Vs Delhi Capitals (DC)",
+		"Date" : "17 October 2020",
+		"Day" : "Saturday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Chennai Super Kings (CSK) Vs Royal Challengers Bangalore (RCB)",
+		"Date" : "18 October 2020",
+		"Day" : "Sunday",
+		"Time" : "3:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Mumbai Indians (MI) Vs Kolkata Knight Riders (KKR)",
+		"Date" : "18 October 2020",
+		"Day" : "Sunday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Rajasthan Royals (RR) Vs Kings XI Punjab (KXIP)",
+		"Date" : "19 October 2020",
+		"Day" : "Monday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Sun Risers Hyderabad (SRH) Vs Chennai Super Kings (CSK)",
+		"Date" : "20 October 2020",
+		"Day" : "Tuesday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Mumbai Indians (MI) Vs Delhi Capitals (DC)",
+		"Date" : "21 October 2020",
+		"Day" : "Wednesday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Kolkata Knight Riders (KKR) Vs Rajasthan Royals (RR)",
+		"Date" : "22 October 2020",
+		"Day" : "Thursday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Royal Challengers Bangalore (RCB) Vs Kings XI Punjab (KXIP)",
+		"Date" : "23 October 2020",
+		"Day" : "Friday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Delhi Capitals (DC) Vs Sun Risers Hyderabad (SRH)",
+		"Date" : "24 October 2020",
+		"Day" : "Saturday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Rajasthan Royals (RR) Vs Chennai Super Kings (CSK)",
+		"Date" : "25 October 2020",
+		"Day" : "Sunday",
+		"Time" : "3:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Sun Risers Hyderabad (SRH) Vs Royal Challengers Bangalore (RCB)",
+		"Date" : "25 October 2020",
+		"Day" : "Sunday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Delhi Capitals (DC) Vs Mumbai Indians (MI)",
+		"Date" : "26 October 2020",
+		"Day" : "Monday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Chennai Super Kings (CSK) Vs Kolkata Knight Riders (KKR)",
+		"Date" : "27 October 2020",
+		"Day" : "Tuesday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Kings XI Punjab (KXIP) Vs Rajasthan Royals (RR)",
+		"Date" : "28 October 2020",
+		"Day" : "Wednesday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Mumbai Indians (MI) Vs Sun Risers Hyderabad (SRH)",
+		"Date" : "29 October 2020",
+		"Day" : "Thursday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Chennai Super Kings (CSK) Vs Delhi Capitals (DC)",
+		"Date" : "30 October 2020",
+		"Day" : "Friday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Kolkata Knight Riders (KKR) Vs Royal Challengers Bangalore (RCB)",
+		"Date" : "31 October 2020",
+		"Day" : "Saturday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Rajasthan Royals (RR) Vs Mumbai Indians (MI)",
+		"Date" : "1 November 2020",
+		"Day" : "Sunday",
+		"Time" : "3:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Sun Risers Hyderabad (SRH) Vs Kings XI Punjab (KXIP)",
+		"Date" : "1 November 2020",
+		"Day" : "Sunday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Delhi Capitals (DC) Vs Rajasthan Royals (RR)",
+		"Date" : "2 November 2020",
+		"Day" : "Monday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Royal Challengers Bangalore (RCB) Vs Chennai Super Kings (CSK)",
+		"Date" : "3 November 2020",
+		"Day" : "Tuesday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Kolkata Knight Riders (KKR) Vs Sun Risers Hyderabad (SRH)",
+		"Date" : "4 November 2020",
+		"Day" : "Wednesday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Kings XI Punjab (KXIP) Vs Delhi Capitals (DC)",
+		"Date" : "5 November 2020",
+		"Day" : "Thursday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Royal Challengers Bangalore (RCB) Vs Mumbai Indians (MI)",
+		"Date" : "6 November 2020",
+		"Day" : "Friday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Qualifier-1",
+		"Date" : "TBD",
+		"Day" : "TBD",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Eliminator",
+		"Date" : "TBD",
+		"Day" : "TBD",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "Qualifier-2",
+		"Date" : "TBD",
+		"Day" : "TBD",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	},
+	{
+		"Matches" : "FINAL",
+		"Date" : "10 November 2020",
+		"Day" : "Sunday",
+		"Time" : "7:30 PM",
+		"Location" : "UAE"
+	}
+]
